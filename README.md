@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CatatanKu
 
 CatatanKu adalah aplikasi pencatatan pribadi berbasis Flutter yang membantu pengguna
@@ -148,3 +149,7 @@ berikutnya agar catatan tetap tersimpan setelah aplikasi ditutup.
 
 Proyek ini dibuat untuk kebutuhan pengembangan dan pembelajaran aplikasi
 CatatanKu.
+=======
+# Catatanku
+Adalah aplikasi catatan yang saya buat untuk tugas perkuliahan namun saya upgrade menjadi lebih baik
+>>>>>>> 53f7d7d33d548c6234854491b09d2e2b47955e94
